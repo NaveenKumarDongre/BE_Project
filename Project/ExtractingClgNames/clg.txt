@@ -1,0 +1,340 @@
+1002 - Government College of Engineering, Amravati
+4VM276:2 1005 - Sant Gadge Baba Amravati University,Amravati
+5VM276:2 1012 - Government Engineering College, Yavatmal
+5VM276:2 1101 - Shri Sant Gajanan Maharaj College of Engineering,Shegaon
+9VM276:2 1105 - Prof. Ram Meghe Institute of Technology & Research, Amravati
+5VM276:2 1107 - P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati
+5VM276:2 1114 - Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati
+4VM276:2 1116 - Shri Shivaji Education Society's College of Engineering and Technology, Akola
+5VM276:2 1117 - Janata Shikshan Prasarak Mandal’s Babasaheb Naik College Of Engineering, Pusad
+5VM276:2 1119 - Paramhansa Ramkrishna Maunibaba Shikshan Santha's , Anuradha Engineering College, Chikhali
+7VM276:2 1120 - Jawaharlal Darda Institute of Engineering and Technology, Yavatmal
+3VM276:2 1121 - Shri Hanuman Vyayam  Prasarak Mandals College of Engineering & Technology, Amravati
+3VM276:2 1123 - Dr.Rajendra Gode Institute of Technology & Research, Amravati
+2VM276:2 1125 - Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana
+4VM276:2 1126 - Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati
+4VM276:2 1127 - Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal
+3VM276:2 1128 - Prof Ram Meghe College of Engineering  and Management, Badnera
+2VM276:2 1129 - Dhamangaon Education Society's College of Engineering and Technology, Dhamangaon
+VM276:2 1130 - Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon
+4VM276:2 1148 - P. R. Pote Patil Institute of Engineering & Research, At  Kathora, Amravati
+3VM276:2 1180 - Sanmati Engineering College, Sawargaon Barde, Washim
+4VM276:2 1182 - Padmashri Dr. V.B.  Kolte College of Engineering, Malkapur, Buldhana
+5VM276:2 1265 - Mauli Group of Institutions, College of Engineering and Technology, Shegaon.
+3VM276:2 1268 - Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile
+3VM276:2 1276 - Manav School of Engineering & Technology, Gut No. 1035 Nagpur Surat Highway, NH No. 6 Tal.Vyala, Balapur, Akola,  444302
+2VM276:2 2008 - Government College of Engineering,  Aurangabad
+3VM276:2 2020 - Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded
+2VM276:2 2021 - University Department of Chemical Technology, Aurangabad
+3VM276:2 2111 - Everest Education Society, Group of Institutions (Integrated Campus), Ohar
+4VM276:2 2112 - Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad
+8VM276:2 2113 - G. S. Mandal's Maharashtra Institute of Technology, Aurangabad
+4VM276:2 2114 - Deogiri Institute of Engineering and Management Studies, Aurangabad
+3VM276:2 2116 - Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded
+6VM276:2 2126 - Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad
+5VM276:2 2127 - Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.
+2VM276:2 2128 - Maharashtra College of Engineering, Nilanga
+6VM276:2 2129 - M.S. Bidve Engineering College, Latur
+3VM276:2 2130 - Terna Public Charitable Trust's College of Engineering, Osmanabad
+3VM276:2 2131 - Shree Tuljabhavani College of Engineering, Tuljapur
+6VM276:2 2132 - M.G.M.'s Jawaharlal Nehru Engineering College, Aurangabad
+5VM276:2 2133 - Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai
+4VM276:2 2134 - Peoples Education Society's College of Engineering, Aurangabad
+3VM276:2 2135 - Hi-Tech Institute of Technology, Aurangabad
+5VM276:2 2136 - Aditya Engineering College , Beed
+3VM276:2 2137 - Nagnathappa Halge Engineering  College, Parli, Beed
+4VM276:2 2138 - Matsyodari Shikshan Sansatha's College of Engineering and Technology, Jalna
+VM276:2 2141 - Shri Sai Samajik Vikas Santha's Shri Sai Colllege of Engineering, Paddari Village Tal. & Dist. Aurangabad
+VM276:2 2146 - Adarsh Shikshan Prasarak Mandal's K. T. Patil College of Engineering and Technology, Osmanabad
+5VM276:2 2250 - Aurangabad College of Engineering,  Naygaon Savangi, Aurangabad
+4VM276:2 2252 - Marathwada Shikshan Prasarak Mandal's Shri Shivaji Institute of Engineering and Management Studies, Parbhani
+2VM276:2 2254 - Vilasrao Deshmukh Foundation Group of Institutions, Latur
+3VM276:2 2516 - International Centre of Excellence in Engineering & Management, Aurangabad.
+2VM276:2 2522 - STMEI's Sandipani Technical Campus-Faculty of Engineering, Latur.
+5VM276:2 2533 - CSMSS Chh. Shahu College of Engineering, Aurangabad
+3VM276:2 2573 - Gramin College of Engineering, Vishnupuri, Nanded
+2VM276:2 3012 - Veermata Jijabai Technological Institute(VJTI), Matunga, Mumbai
+VM276:2 3014 - Sardar Patel College of Engineering, Andheri
+4VM276:2 3033 - Dr. Babasaheb Ambedkar Technological University, Lonere
+VM276:2 3035 - Usha Mittal Institute of Technology SNDT  Women's University, Mumbai
+2VM276:2 3036 - Institute of Chemical Technology, Matunga, Mumbai
+5VM276:2 3135 - Manjara Charitable Trust's Rajiv Gandhi Institute of Technology, Mumbai
+5VM276:2 3139 - Vidyalankar Institute of Technology,Wadala, Mumbai
+5VM276:2 3146 - Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai
+4VM276:2 3148 - Mahavir Education Trust's Shah & Anchor Kutchhi Engineering College, Mumbai
+8VM276:2 3154 - Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai
+8VM276:2 3174 - Ramrao Adik Edu Soc, Ramarao Adik Institute of Tech., Navi Mumbai
+10VM276:2 3175 - M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai
+2VM276:2 3176 - Thakur College of Engineering and Technology, Kandivali, Mumbai
+VM276:2 3181 - K.J.Somaiya College of Engineering, Vidyavihar, Mumbai
+3VM276:2 3182 - Thadomal Shahani Engineering College, Bandra, Mumbai
+6VM276:2 3183 - Anjuman-I-Islam's M.H. Saboo Siddik College of Engineering, Byculla, Mumbai
+3VM276:2 3184 - Fr. Conceicao Rodrigues College of Engineering, Bandra,Mumbai
+4VM276:2 3185 - Vivekanand Education Society's Institute of Technology, Chembur, Mumbai
+7VM276:2 3187 - N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai
+3VM276:2 3188 - Padmabhushan Vasantdada Patil Pratishthans College of Engineering, Sion,Mumbai
+6VM276:2 3189 - Bharati Vidyapeeth College of Engineering,  Navi Mumbai
+8VM276:2 3190 - Terna Engineering College, Nerul, Navi Mumbai
+4VM276:2 3192 - Smt. Indira Gandhi College of Engineering, Navi Mumbai
+6VM276:2 3193 - Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai
+7VM276:2 3194 - Vidyavardhini's College of Engineering and Technology, Vasai
+6VM276:2 3196 - Lokmanya Tilak College of Engineering, Kopar Khairane, Navi Mumbai
+3VM276:2 3197 - Agnel Charities' FR. C. Rodrigues Institute of Technology, Vashi, Navi Mumbai
+3VM276:2 3198 - Konkan Gyanpeeth College of Engineering, Karjat
+4VM276:2 3199 - Shri Vile Parle Kelvani Mandal's Dwarkadas J. Sanghvi College of Engineering, Vile Parle,Mumbai
+5VM276:2 3200 - Hope Foundation and research center's  Finolex Academy of Management and Technology, Ratnagiri
+4VM276:2 3201 - Rizvi Education Society's Rizvi College of Engineering, Bandra,Mumbai
+3VM276:2 3202 - Rajendra Mane College of Engineering & Technology  Ambav Deorukh
+5VM276:2 3203 - Atharva College of Engineering,Malad(West),Mumbai
+3VM276:2 3204 - St. Francis Institute of Technology,Borivali, Mumbai
+2VM276:2 3206 - S.S.P.M.'s College of Engineering, Kankavli
+5VM276:2 3207 - Mahatma Education Society's Pillai College of Engineering, New Panvel
+2VM276:2 3209 - K J Somaiya Institute of Engineering and Information Technology, Sion, Mumbai
+3VM276:2 3210 - Excelsior Education Society's K.C. College of Engineering and Management Studies and Research, Kopri, Thane (E)
+4VM276:2 3211 - S.I.E.S. Graduate School of Technology, Nerul, Navi Mumbai
+2VM276:2 3212 - WATUMULL INSTITUTE OF ELECTRONICS ENGINEERING & COMPUTER TECHNOLOGY, ULHASNAGAR
+2VM276:2 3214 - Xavier Institute Of Engineering C/O  Xavier Technical Institute,Mahim,Mumbai
+VM276:2 3215 - Bhartiya Vidya Bhavan's Sardar Patel Institute  of Technology , Andheri, Mumbai
+5VM276:2 3216 - Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri
+3VM276:2 3217 - Vighnaharata Trust's  Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane
+4VM276:2 3218 - Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar
+3VM276:2 3219 - Koti Vidya Charitable Trust's  Smt. Alamuri Ratnamala Institute of Engineering and Technology,  Sapgaon, Tal. Shahapur
+2VM276:2 3220 - Saraswati Education Society, Yadavrao Tasgaonkar College of Engineering and Management, Nasarapur, Chandai, Karjat
+4VM276:2 3221 - Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon
+3VM276:2 3222 - Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar
+6VM276:2 3223 - Mahatma Education Society's Pillai HOC College of Engineering & Technology, Tal. Khalapur. Dist. Raigad
+2VM276:2 3224 - Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat
+2VM276:2 3351 - Bharat College of Engineering, Kanhor, Badlapur(W)
+2VM276:2 3353 - Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat,  Mumbai
+6VM276:2 3423 - Shree L.R. Tiwari College of Engineering, Mira Road, Mumbai
+2VM276:2 3436 - B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.
+4VM276:2 3439 - Anjuman-I-Islam's Kalsekar Technical Campus, Panvel
+2VM276:2 3440 - Metropolitan Institute of Technology & Management, Sukhalwad, Sindhudurg.
+2VM276:2 3445 - Vishvatmak Jangli Maharaj Ashram Trust's Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur.
+2VM276:2 3447 - G.M.Vedak Institute of Technology, Tala, Raigad.
+3VM276:2 3460 - Universal College of Engineering,Kaman Dist. Palghar
+2VM276:2 3462 - VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.
+3VM276:2 3465 - Ideal Institute of Technology, Wada, Dist.Thane
+5VM276:2 3467 - Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad
+5VM276:2 3471 - New Horizon Institute of Technology & Management, Thane
+4VM276:2 3475 - A. P. Shah Institute of Technology, Thane
+3VM276:2 3477 - Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel
+2VM276:2 3503 - Indala College Of Engineering, Bapsai Tal.Kalyan
+6VM276:2 4004 - Government College of Engineering, Chandrapur
+7VM276:2 4005 - Laxminarayan Institute of Technology, Nagpur
+5VM276:2 4025 - Government College of Engineering, Nagpur
+6VM276:2 4104 - Kavi Kulguru Institute of Technology & Science, Ramtek
+3VM276:2 4115 - Shri Ramdeobaba College of Engineering and Management, Nagpur
+2VM276:2 4116 - Ankush Shikshan Sanstha's G.H.Raisoni College of Engineering, Nagpur
+4VM276:2 4118 - Bapurao Deshmukh College of Engineering, Sevagram
+5VM276:2 4123 - Lokmanya Tilak Jankalyan Shikshan Sanstha, Priyadarshani College of Engineering, Nagpur
+3VM276:2 4133 - Sanmarg Shikshan Sanstha's Smt. Radhikatai Pandav College of Engineering, Nagpur
+2VM276:2 4134 - Guru Nanak Institute of Engineering & Technology,Kalmeshwar, Nagpur
+3VM276:2 4135 - Amar Seva Mandal's Shree Govindrao Vanjari College of Engineering &  Technology, Nagpur
+3VM276:2 4136 - Lokmanya Tilak Jankalyan Shikshan Sastha, Priyadarshini J. L. College Of Engineering, Nagpur
+4VM276:2 4137 - Sir Shantilal Badjate Charitable Trust's S. B. Jain Institute of technology, Management & Research, Nagpur
+4VM276:2 4138 - Jaidev Education Society, J D College of Engineering and Management, Nagpur
+3VM276:2 4139 - Samridhi Sarwajanik Charitable Trust, Jhulelal Institute of Technology, Nagpur
+VM276:2 4141 - Shriram Gram Vikas Shikshan Sanstha, Vilasrao Deshmukh College of Engineering and Technology, Nagpur
+3VM276:2 4142 - Ankush Shikshan Sanstha's G. H. Raisoni Institute of Engineering & Technology, Nagpur
+3VM276:2 4143 - Sanmarg Shikshan Sanstha, Mandukarrao Pandav College of Engineering, Bhandara
+5VM276:2 4144 - Shri. Sai Shikshan Sanstha, Nagpur Institute of Technology, Nagpur
+4VM276:2 4145 - Wainganga College of Engineering and Management, Dongargaon, Nagpur
+6VM276:2 4147 - K.D.K. College of Engineering, Nagpur
+6VM276:2 4151 - Vidarbha Bahu-Uddeshiya Shikshan Sanstha's Tulshiramji Gaikwad Patil College of Engineering & Technology, Nagpur
+7VM276:2 4163 - Rajiv Gandhi College of Engineering Research & Technology  Chandrapur
+2VM276:2 4167 - Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur
+4VM276:2 4171 - Lokmanya Tilak Jankalyan Shikshan Sanstha's , Priyadarshini Institute of Engineering and Technology, Nagpur
+5VM276:2 4172 - Anjuman College of Engineering & Technology, Nagpur
+4VM276:2 4174 - ST. Vincent Pallotti College of Engineering & Technology, Nagpur
+3VM276:2 4175 - JMSS Shri Shankarprasad Agnihotri College of Engineering, Wardha
+3VM276:2 4177 - Priyadarshini Bhagwati  College of Engineering, Harpur Nagar, Umred Road,Nagpur
+5VM276:2 4178 - Rajiv Gandhi College of Engineering & Research, Hingna Road, Nagpur
+3VM276:2 4179 - Lokmanya Tilak Jankalyan Shiksan Sanstha, Priyadarshini Indira Gandhi College of Engineering, Nagpur
+2VM276:2 4181 - Sarvasiddhanta Education Soc's Nuva College of Engineering and Technology, Nagpur
+5VM276:2 4186 - Datta Meghe Institute of Medical Science's Datta Meghe Institute of Engineering & Technology & Research, Savangi (Meghe)
+4VM276:2 4187 - Dr. Babasaheb Ambedkar College of Engineering and Research, Wanadongri, Nagpur
+4VM276:2 4188 - Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni
+2VM276:2 4190 - M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati
+4VM276:2 4192 - Maitraya Education Society, Nagarjuna Institute of Engineering Technology & Management, Nagpur
+2VM276:2 4193 - K.D.M. Education Society, Vidharbha Institute of Technology,Umred Road ,Nagpur
+2VM276:2 4195 - Vidharbha Bahu uddeshiya Shikshan Sanstha's Abha Gaikwad – Patil College of Engineering, Nagpur
+2VM276:2 4196 - Gurunanak Educational Society's Gurunanak Institute of Technology, Nagpur
+2VM276:2 4197 - Jai Mahakali Shikshan Sanstha, Agnihotri College of Engineering, Sindhi(Meghe)
+2VM276:2 4285 -  V M Institute of Engineering and Technology, Dongargaon, Nagpur
+2VM276:2 4302 - Gondia Education Society's Manoharbhai Patel Institute Of Engineering & Technology, Shahapur, Bhandara
+3VM276:2 4304 - Cummins College of Engineering For Women, Sukhali (Gupchup), Tal. Hingna Hingna Nagpur
+2VM276:2 4305 - G.H.Raisoni Academy of Engineering & Technology, Nagpur
+3VM276:2 4613 - Suryodaya College of Engineering & Technology, Nagpur
+4VM276:2 4649 - Bajaj Institute of Technology, Wardha
+5VM276:2 5003 - University Institute  of Chemical Technology, North Maharashtra University, Jalgaon
+2VM276:2 5004 - Government College of Engineering, Jalgaon
+4VM276:2 5103 - Shri Shivaji Vidya Prasarak Sanstha's Late Bapusaheb Shivaji Rao Deore College of Engineering,Dhule
+8VM276:2 5104 - Shramsadhana Bombay Trust, College of Engineering & Technology, Jalgaon
+3VM276:2 5106 - K. C. E. Societys College of Engineering and Information Technology, Jalgaon
+3VM276:2 5107 - Shri Gulabrao Deokar College of Engineering, Jalgaon
+6VM276:2 5108 - Nashik District Maratha Vidya Prasarak Samaj's Karmaveer Adv.Babaurao Ganpatrao Thakare College of Engineering, Nashik
+6VM276:2 5109 - Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik
+12VM276:2 5121 - K. K. Wagh Institute of Engineering Education and Research, Nashik
+5VM276:2 5124 - Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon
+6VM276:2 5125 - Pravara Rural Education Society's Sir Visvesvaraya Institute of Technology, Chincholi Dist. Nashik
+3VM276:2 5130 - Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik
+8VM276:2 5139 - Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.
+6VM276:2 5151 - MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.
+3VM276:2 5152 - G. H. Raisoni Institute of Business Management,Jalgaon
+2VM276:2 5160 - Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon
+5VM276:2 5161 - Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar
+7VM276:2 5162 - Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner
+4VM276:2 5164 - P.S.G.V.P. Mandal's D.N. Patel College of Engineering, Shahada, Dist. Nandurbar
+2VM276:2 5168 - T.M.E. Society's J.T.Mahajan College of Engineering, Faizpur
+2VM276:2 5169 - Nagaon  Education Society's Gangamai College of Engineering, Nagaon, Tal Dist Dhule
+2VM276:2 5170 - Hindi Seva Mandal's Shri Sant Gadgebaba College of Engineering & Technology, Bhusawal
+2VM276:2 5171 - Godavari Foundation's Godavari College Of Engineering,  Jalgaon
+5VM276:2 5172 - R. C. Patel Institute of Technology, Shirpur
+3VM276:2 5173 - SNJB's Late Sau. Kantabai Bhavarlalji Jain College of Engineering,  (Jain Gurukul), Neminagar,Chandwad,(Nashik)
+2VM276:2 5176 - G. H. Raisoni College of Engineering and Management, Ahmednagar
+6VM276:2 5177 - Matoshri College of Engineering and Research Centre, Eklahare, Nashik
+2VM276:2 5179 - Vishwabharati Academy's College of Engineering, Ahmednagar
+5VM276:2 5181 - Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik
+VM276:2 5182 - Kalyani Charitable Trust, Late Gambhirrao Natuba Sapkal College of Engineering, Anjaneri, Trimbakeshwar Road, Nashik
+3VM276:2 5184 - Amruta Vaishnavi Education & Welfare Trust's Shatabdi Institute of Engineering & Research, Agaskhind Tal. Sinnar
+4VM276:2 5303 - Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,
+3VM276:2 5322 - Jamia Institute Of Engineering And Management Studies, Akkalkuwa
+4VM276:2 5330 - Pune Vidyarthi Griha's College Of Engineering, Nashik
+4VM276:2 5331 - Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik
+3VM276:2 5380 - Adsul's Technical Campus, Chas Dist. Ahmednagar
+2VM276:2 5381 - Shri. Jaykumar Rawal Institute of Technology, Dondaicha.
+4VM276:2 5382 - Ahmednagar Jilha Maratha Vidya Prasarak Samajache, Shri. Chhatrapati Shivaji Maharaj College of Engineering, Nepti
+4VM276:2 5390 - K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.
+3VM276:2 5396 - College of Engineering and Technology ,North Maharashtra Knowledge City, Jalgaon
+3VM276:2 5399 - Sanghavi College of Engineering, Varvandi, Nashik.
+2VM276:2 5401 - Jawahar Education Society's Institute of Technology, Management & Research, Nashik.
+2VM276:2 5408 - Vidya Niketan College of Engineering, Bota Sangamner
+2VM276:2 5409 - Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar
+3VM276:2 5411 - Maulana Mukhtar Ahmad Nadvi Technical Campus, Malegaon.
+4VM276:2 5418 - Guru Gobind Singh College of Engineering & Research Centre, Nashik.
+5VM276:2 5449 - Shri. Vile Parle Kelavani Mandal's Institute of Technology, Dhule
+5VM276:2 6004 - Government College of Engineering & Research, Avasari Khurd
+2VM276:2 6005 - Government College of Engineering, Karad
+2VM276:2 6006 - College of Engineering, Pune
+2VM276:2 6007 - Walchand College of Engineering, Sangli
+6VM276:2 6028 - Department of Technology, Shivaji University, Kolhapur
+5VM276:2 6122 - TSSMS's Pd. Vasantdada Patil Institute of Technology, Bavdhan, Pune
+4VM276:2 6138 - Genba Sopanrao Moze Trust Parvatibai Genba Moze College of Engineering,Wagholi, Pune
+9VM276:2 6139 - Progressive Education Society's Modern College of Engineering, Pune
+2VM276:2 6141 - Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering, Tathawade, Pune
+3VM276:2 6144 - Genba Sopanrao Moze College of Engineering, Baner-Balewadi, Pune
+5VM276:2 6145 - JSPM'S Jaywantrao Sawant College of Engineering,Pune
+2VM276:2 6146 - MIT Academy of Engineering,Alandi, Pune
+3VM276:2 6149 - Choudhary Attar Singh Yadav Memorial Trust,Siddhant College of Engineering, Maval
+2VM276:2 6155 - G.H.Raisoni College of Engineering & Management, Wagholi, Pune
+6VM276:2 6156 - Marathwada Mitra Mandal's College of Engineering, Karvenagar, Pune
+6VM276:2 6160 - JSPM's Imperial College of Engineering and Research, Wagholi, Pune
+7VM276:2 6175 - Pimpri Chinchwad Education Trust, Pimpri Chinchwad College of Engineering, Pune
+5VM276:2 6176 - G. H.Raisoni Institute of Engineering and Technology, Wagholi, Pune
+12VM276:2 6177 - Sinhgad College of Engineering, Vadgaon (BK), Pune
+6VM276:2 6178 - Sinhgad Technical Education Society's Smt. Kashibai Navale College of Engineering,Vadgaon,Pune
+4VM276:2 6179 - Indira College of Engineering & Management, Pune
+6VM276:2 6182 - Sinhgad Technical Education Society, Sinhgad Institute of Technology and Science, Narhe (Ambegaon)
+VM276:2 6183 - Al-Ameen Educational and Medical Foundation, College of Engineering, Koregaon, Bhima
+4VM276:2 6184 - K. J.'s Educational Institut Trinity College of Engineering and Research, Pisoli, Haveli
+6VM276:2 6185 - Sinhagad Institute of Technology, Lonavala
+6VM276:2 6187 - Sinhgad Academy of Engineering, Kondhwa (BK)  Kondhwa-Saswad Road, Pune
+3VM276:2 6203 - Marathwada Mitra Mandal's Institute of Technology, Lohgaon, Pune
+4VM276:2 6206 - Pune District Education  Association's College of Engineering, Pune
+8VM276:2 6207 - Dr. D. Y. Patil Vidya Pratishthan Society Dr .D. Y. Patil Institute of Engineering & Technology, Pimpri,Pune
+2VM276:2 6214 - K. E. Society's Rajarambapu Institute of Technology, Walwa, Sangli
+2VM276:2 6217 - Shri. Balasaheb Mane Prasarak Mandals, Ashokrao Mane Group of Institutions, Kolhapur
+2VM276:2 6219 - KSGBS's Bharat- Ratna Indira Gandhi College of Engineering, Kegaon, Solapur
+5VM276:2 6220 - Shri Vithal Education and Research Institute's College of Engineering, Pandharpur
+3VM276:2 6222 - Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji.
+5VM276:2 6223 - Pradnya Niketan Education Society's Nagesh Karajagi Orchid College of Engineering & Technology, Solapur
+5VM276:2 6250 - D.Y. Patil College of Engineering and Technology, Kolhapur
+4VM276:2 6265 - Walchand Institute of Technology, Solapur
+2VM276:2 6267 - Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur
+6VM276:2 6268 - Tatyasaheb Kore Institute of Engineering and Technology, Warananagar
+7VM276:2 6269 - Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli
+4VM276:2 6270 - Rayat Shikshan Sanstha's Karmaveer Bhaurao Patil College of Engineering, Satara
+4VM276:2 6271 - Pune Institute of Computer Technology, Dhankavdi, Pune
+9VM276:2 6272 - Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune
+3VM276:2 6273 - Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune
+6VM276:2 6274 - Pune Vidyarthi Griha's College of Engineering and Technology,  Pune
+6VM276:2 6275 - Shivnagar Vidya Prasarak Mandal's College of Engineering, Malegaon-Baramati
+2VM276:2 6276 - MKSSS's Cummins College of Engineering for Women, Karvenagar,Pune
+5VM276:2 6277 - Dr. J. J. Magdum  Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur
+8VM276:2 6278 - All India Shri Shivaji Memorial Society's College of Engineering, Pune
+4VM276:2 6281 - Modern Education Society's College of Engineering, Pune
+6VM276:2 6282 - All India Shri Shivaji Memorial Society's Institute of Information Technology,Pune
+2VM276:2 6283 - Annasaheb Dange College of Engineering and Technology, Ashta, Sangli
+6VM276:2 6284 - Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering & Technology, Baramati Dist.Pune
+3VM276:2 6285 - Bharati Vidyapeeth's College of Engineering for Women, Katraj, Dhankawadi, Pune
+4VM276:2 6288 - Bharati Vidyapeeth's College of Engineering, Kolhapur
+2VM276:2 6289 - B.R.A.C.T's Vishwakarma Institute of Information Technology, Kondhwa (Bk.), Pune
+3VM276:2 6293 - Kai Amdar  Bramhadevdada Mane Shikshan & Samajik Prathistan's Bramhadevdada Mane Institute of Technology, Solapur
+8VM276:2 6298 - Zeal Education Society's Zeal College of Engineering & Reserch, Narhe, Pune
+3VM276:2 6303 - Dr. Ashok Gujar Technical Institute's  Dr. Daulatrao Aher College of Engineering, Karad
+2VM276:2 6304 - Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli
+VM276:2 6305 - S.D.N.C.R.E.S'S.Late Narayandas Bhawandas Chhabada Institute of Engineering & Technology, Satara
+6VM276:2 6307 - Dhole Patil Education Society, Dhole Patil College of Engineering, Wagholi, Tal. Haveli
+3VM276:2 6308 - Shanti Education Society, A.G. Patil Institute of Technology, Soregaon, Solapur(North)
+4VM276:2 6310 - Nutan Maharashtra Vidya Prasarak Mandal, Nutan Maharashtra Institute of Engineering &Technology, Talegaon station, Pune
+5VM276:2 6311 - Jayawant Shikshan Prasarak Mandal, Bhivarabai Sawant Institute of Technology & Research, Wagholi
+2VM276:2 6313 - Jaywant College of Engineering & Management, Kille Macchindragad Tal. Walva
+4VM276:2 6315 - Holy-Wood Academy's Sanjeevan Engineering and Technology Institute, Panhala
+5VM276:2 6317 - Sharad Institute of Technology College of Engineering, Yadrav(Ichalkaranji)
+5VM276:2 6319 - Shahajirao Patil Vikas Pratishthan, S.B.Patil College of Engineering, Vangali, Tal. Indapur
+3VM276:2 6320 - K.J.'s Educational Institute's K.J.College of Engineering & Management Research, Pisoli
+3VM276:2 6321 - Vidya Vikas Pratishthan Institute of Engineering and Technology, Solapur
+2VM276:2 6322 - Shree Gajanan Maharaj Shikshan Prasarak Manda'l Sharadchandra Pawar College of Engineering, Dumbarwadi
+4VM276:2 6323 - D. Y. Patil College of Engineering, Ambi, Talegaon, Maval
+4VM276:2 6324 - Rajgad Dnyanpeeth's Technical Campus,Dhangwadi, Bhor
+2VM276:2 6325 - Alard  Charitable Trust's Alard College of Engineering and Management, Pune
+4VM276:2 6326 - Shri Pandurang Pratishtan, Karmayogi Engineering College, Shelve, Pandharpur
+4VM276:2 6419 - Nutan College of Engineering and Research, Talegaon Dabhade Tal. Maval, Pune
+2VM276:2 6466 - Shree Santkrupa Shikshan Sanstha, Shree Santkrupa Institute Of Engineering & Technology, Karad
+3VM276:2 6545 - Samarth Education Trust's Arvind Gavali College Of Engineering Panwalewadi, Varye,Satara.
+2VM276:2 6609 - Jaihind College Of Engineering,Kuran
+5VM276:2 6620 - D. Y. Patil Institute of Engineering and Technology, Ambi
+2VM276:2 6622 - I.S.B.& M. School of Technology, Nande Village
+VM276:2 6625 - Universal College of Engineering & Research, Sasewadi
+3VM276:2 6628 - Dattakala Group Of Institutions, Swami - Chincholi Tal. Daund Dist. Pune
+4VM276:2 6632 - Navsahyadri Education Society's Group of Institutions
+3VM276:2 6634 - KJEI's Trinity Academy of Engineering, Yewalewadi, Pune
+3VM276:2 6635 - Samarth Group of Institutions, Bangarwadi, Post Belhe Tal. Junnar Dist. Pune
+4VM276:2 6640 - N. B. Navale Sinhgad College of Engineering, Kegaon, solapur
+5VM276:2 6643 - S K N Sinhgad College of Engineering, Korti Tal. Pandharpur Dist Solapur
+2VM276:2 6644 - Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj
+4VM276:2 6649 - TSSM's Bhivarabai Sawant College of Engineering and Research, Narhe, Pune
+4VM276:2 6732 - Dr. D. Y. Patil School OF Engineering, Lohegaon, Pune
+3VM276:2 6754 - International Institute of Information Technology (I²IT), Pune.
+5VM276:2 6755 - JSPM Narhe Technical Campus, Pune.
+5VM276:2 6756 - Fabtech Technical Campus College of Engineering and Research, Sangola
+3VM276:2 6757 - Yashoda Technical Campus, Wadhe, Satara.
+VM276:2 6758 - Sahyadri Valley College of Engineering & Technology, Rajuri, Pune.
+2VM276:2 6759 - Shree Ramchandra College of Engineering, Lonikand,Pune
+4VM276:2 6762 - Nanasaheb Mahadik College of Engineering,Walwa, Sangli.
+3VM276:2 6766 - Phaltan Education Society's College of Engineering Thakurki Tal- Phaltan Dist-Satara
+2VM276:2 6767 - Suman Ramesh Tulsiani Technical Campus: Faculty of Engineering, Kamshet,Pune.
+3VM276:2 6768 - P.K. Technical Campus, Pune.
+4VM276:2 6769 - Rasiklal M. Dhariwal Sinhgad Technical Institutes Campus, Warje, Pune.
+3VM276:2 6770 - SKN Sinhgad Institute of Technology & Science, Kusgaon(BK),Pune.
+5VM276:2 6772 - NBN Sinhgad Technical Institutes Campus, Pune
+4VM276:2 6780 - D.Y.Patil Education Society's,D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management,Talsande,Kolhapur.
+3VM276:2 6781 - Bhagwant Institute of Technology, Barshi
+2VM276:2 6782 - Sahakar Maharshee Shankarrao Mohite Patil Institute of Technology & Research, Akluj
+5VM276:2 6787 - Dr. D. Y. Patil Educational Academy's, D.Y.Patil School of Engineering Academy, Ambi
+4VM276:2 6794 - Anantrao Pawar College of Engineering & Research, Pune
+2VM276:2 6795 - Shri.Someshwar Shikshan Prasarak Mandals, Someshwar Engineering College, Someshwar Nagar
+4VM276:2 6796 - Bharati Vidyapeeth's College of Engineering,Lavale, Pune
+4VM276:2 6797 - Dnyanshree Institute Engineering and Technology, Satara
+6VM276:2 6802 - Dr. D.Y.Patil Institute of Engineering, Management & Reseach, Akurdi, Pune
+5VM276:2 6803 - Sant Gajanan Maharaj College of Engineering, Gadhinglaj
+3VM276:2 6808 - Keystone School of Engineering, Pune
+VM276:2 6809 - Shivganga Charitable Trust, Sangli Vishveshwarya Technical Campus, Faculty of Degree Engineering, Patgaon, Miraj
+VM276:2 6815 - Vidya Prasarini Sabha's College of Engineering & Technology, Lonavala
+4VM276:2 6822 - Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research, Ravet
+3VM276:2 6834 - Dr.D.Y.Patil College Of Engineering & Innovation,Talegaon
+4VM276:2 6839 - Dr. D Y Patil Pratishthan's College of Engineering, Kolhapur
+VM276:2 6878 - Dr. A. D. Shinde College Of Engineering, Tal.Gadhinglaj, Kolhapur
+3VM276:2 6901 - MAEER's MIT College of Railway Engineering and Research, Jamgaon, Barshi
+2VM276:2 6938 - Shree Siddheshwar Women's College Of Engineering Solapur.
