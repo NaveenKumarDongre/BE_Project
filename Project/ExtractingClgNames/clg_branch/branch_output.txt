@@ -1,0 +1,1712 @@
+100219110 - Civil Engineering
+100224210 - Computer Science and Engineering
+100224610 - Information Technology
+100229310 - Electrical Engineering
+100237210 - Electronics and Telecommunication Engg
+100246610 - Instrumentation Engineering
+100261210 - Mechanical Engineering
+100550310 - Food Technology
+100551710 - Oil and Paints Technology
+100552410 - Paper and Pulp Technology
+100552710 - Petro Chemical Engineering
+101219110 - Civil Engineering
+101224510 - Computer Engineering
+101229310 - Electrical Engineering
+101237210 - Electronics and Telecommunication Engg
+101261210 - Mechanical Engineering
+110124210 - Computer Science and Engineering
+110124610 - Information Technology
+110135610 - Electrical Engg[Electronics and Power]
+110137210 - Electronics and Telecommunication Engg
+110161210 - Mechanical Engineering
+110519110 - Civil Engineering
+110519120 - Civil Engineering
+110524210 - Computer Science and Engineering
+110524220 - Computer Science and Engineering
+110524610 - Information Technology
+110537210 - Electronics and Telecommunication Engg
+110537220 - Electronics and Telecommunication Engg
+110561210 - Mechanical Engineering
+110561220 - Mechanical Engineering
+110719110 - Civil Engineering
+110724210 - Computer Science and Engineering
+110729310 - Electrical Engineering
+110737210 - Electronics and Telecommunication Engg
+110761210 - Mechanical Engineering
+111419110 - Civil Engineering
+111424210 - Computer Science and Engineering
+111424610 - Information Technology
+111437210 - Electronics and Telecommunication Engg
+111461210 - Mechanical Engineering
+111619110 - Civil Engineering
+111624210 - Computer Science and Engineering
+111650710 - Chemical Engineering
+111661210 - Mechanical Engineering
+111719110 - Civil Engineering
+111724210 - Computer Science and Engineering
+111735610 - Electrical Engg[Electronics and Power]
+111737210 - Electronics and Telecommunication Engg
+111761210 - Mechanical Engineering
+111924210 - Computer Science and Engineering
+111924610 - Information Technology
+111937210 - Electronics and Telecommunication Engg
+111950710 - Chemical Engineering
+111961210 - Mechanical Engineering
+112019110 - Civil Engineering
+112024210 - Computer Science and Engineering
+112029310 - Electrical Engineering
+112037210 - Electronics and Telecommunication Engg
+112050710 - Chemical Engineering
+112061210 - Mechanical Engineering
+112089310 - Textile Engineering / Technology
+112124210 - Computer Science and Engineering
+112124610 - Information Technology
+112137210 - Electronics and Telecommunication Engg
+112161210 - Mechanical Engineering
+112319110 - Civil Engineering
+112324210 - Computer Science and Engineering
+112337210 - Electronics and Telecommunication Engg
+112361210 - Mechanical Engineering
+112524210 - Computer Science and Engineering
+112529310 - Electrical Engineering
+112561210 - Mechanical Engineering
+112619110 - Civil Engineering
+112624210 - Computer Science and Engineering
+112629310 - Electrical Engineering
+112637210 - Electronics and Telecommunication Engg
+112661210 - Mechanical Engineering
+112719110 - Civil Engineering
+112724510 - Computer Engineering
+112729310 - Electrical Engineering
+112737210 - Electronics and Telecommunication Engg
+112761210 - Mechanical Engineering
+112819110 - Civil Engineering
+112824210 - Computer Science and Engineering
+112829310 - Electrical Engineering
+112837210 - Electronics and Telecommunication Engg
+112924210 - Computer Science and Engineering
+112935610 - Electrical Engg[Electronics and Power]
+112961210 - Mechanical Engineering
+113019110 - Civil Engineering
+113024210 - Computer Science and Engineering
+114819110 - Civil Engineering
+114824210 - Computer Science and Engineering
+114829310 - Electrical Engineering
+114861210 - Mechanical Engineering
+118019110 - Civil Engineering
+118024210 - Computer Science and Engineering
+118029310 - Electrical Engineering
+118061210 - Mechanical Engineering
+118219110 - Civil Engineering
+118224210 - Computer Science and Engineering
+118229310 - Electrical Engineering
+118261210 - Mechanical Engineering
+126519110 - Civil Engineering
+126524210 - Computer Science and Engineering
+126535610 - Electrical Engg[Electronics and Power]
+126537210 - Electronics and Telecommunication Engg
+126561210 - Mechanical Engineering
+126819110 - Civil Engineering
+126824210 - Computer Science and Engineering
+126835610 - Electrical Engg[Electronics and Power]
+126861210 - Mechanical Engineering
+127619110 - Civil Engineering
+127624510 - Computer Engineering
+127629310 - Electrical Engineering
+127661210 - Mechanical Engineering
+200819110 - Civil Engineering
+200824210 - Computer Science and Engineering
+200824610 - Information Technology
+200829310 - Electrical Engineering
+200837210 - Electronics and Telecommunication Engg
+200861210 - Mechanical Engineering
+202019110 - Civil Engineering
+202024210 - Computer Science and Engineering
+202024610 - Information Technology
+202029310 - Electrical Engineering
+202037210 - Electronics and Telecommunication Engg
+202046610 - Instrumentation Engineering
+202050710 - Chemical Engineering
+202060610 - Production Engineering
+202061210 - Mechanical Engineering
+202089610 - Textile Technology
+202150310 - Food Technology
+202181610 - Pharmaceutical and Fine Chemical Technology
+211119110 - Civil Engineering
+211124210 - Computer Science and Engineering
+211129310 - Electrical Engineering
+211161210 - Mechanical Engineering
+211219110 - Civil Engineering
+211224210 - Computer Science and Engineering
+211229310 - Electrical Engineering
+211237210 - Electronics and Telecommunication Engg
+211261210 - Mechanical Engineering
+211301110 - Agricultural Engineering
+211319110 - Civil Engineering
+211319120 - Civil Engineering
+211324210 - Computer Science and Engineering
+211329310 - Electrical Engineering
+211337210 - Electronics and Telecommunication Engg
+211350110 - Plastic and Polymer Engineering
+211361210 - Mechanical Engineering
+211361220 - Mechanical Engineering
+211419110 - Civil Engineering
+211424210 - Computer Science and Engineering
+211437010 - Electronics and Telecommunication Engg
+211461210 - Mechanical Engineering
+211619110 - Civil Engineering
+211624210 - Computer Science and Engineering
+211629310 - Electrical Engineering
+211661210 - Mechanical Engineering
+212619110 - Civil Engineering
+212619120 - Civil Engineering
+212624210 - Computer Science and Engineering
+212629310 - Electrical Engineering
+212637210 - Electronics and Telecommunication Engg
+212661210 - Mechanical Engineering
+212661220 - Mechanical Engineering
+212719110 - Civil Engineering
+212724210 - Computer Science and Engineering
+212724610 - Information Technology
+212737210 - Electronics and Telecommunication Engg
+212761210 - Mechanical Engineering
+212819110 - Civil Engineering
+212837610 - Electronics Engineering
+212861210 - Mechanical Engineering
+212919110 - Civil Engineering
+212924210 - Computer Science and Engineering
+212924610 - Information Technology
+212929810 - Electrical Engg [Electrical and Power]
+212937610 - Electronics Engineering
+212961210 - Mechanical Engineering
+213019110 - Civil Engineering
+213024210 - Computer Science and Engineering
+213037210 - Electronics and Telecommunication Engg
+213061210 - Mechanical Engineering
+213119110 - Civil Engineering
+213124210 - Computer Science and Engineering
+213137210 - Electronics and Telecommunication Engg
+213161210 - Mechanical Engineering
+213219110 - Civil Engineering
+213224210 - Computer Science and Engineering
+213224610 - Information Technology
+213229310 - Electrical Engineering
+213237210 - Electronics and Telecommunication Engg
+213250710 - Chemical Engineering
+213261210 - Mechanical Engineering
+213319110 - Civil Engineering
+213324210 - Computer Science and Engineering
+213329310 - Electrical Engineering
+213337210 - Electronics and Telecommunication Engg
+213357510 - Electrical and Instrumentation Engineering
+213361210 - Mechanical Engineering
+213419110 - Civil Engineering
+213424210 - Computer Science and Engineering
+213429310 - Electrical Engineering
+213437210 - Electronics and Telecommunication Engg
+213461210 - Mechanical Engineering
+213519110 - Civil Engineering
+213524210 - Computer Science and Engineering
+213561210 - Mechanical Engineering
+213619110 - Civil Engineering
+213624510 - Computer Engineering
+213624610 - Information Technology
+213629310 - Electrical Engineering
+213637210 - Electronics and Telecommunication Engg
+213653410 - Food Engineering and Technology
+213661210 - Mechanical Engineering
+213719110 - Civil Engineering
+213724210 - Computer Science and Engineering
+213729710 - Electrical and Electronics Engineering
+213761210 - Mechanical Engineering
+213819110 - Civil Engineering
+213824210 - Computer Science and Engineering
+213829310 - Electrical Engineering
+213861210 - Mechanical Engineering
+214137210 - Electronics and Telecommunication Engg
+214161210 - Mechanical Engineering
+214619110 - Civil Engineering
+214629710 - Electrical and Electronics Engineering
+214661210 - Mechanical Engineering
+225019110 - Civil Engineering
+225024210 - Computer Science and Engineering
+225029310 - Electrical Engineering
+225037010 - Electronics and Communication Engineering
+225061210 - Mechanical Engineering
+225219110 - Civil Engineering
+225224210 - Computer Science and Engineering
+225229710 - Electrical and Electronics Engineering
+225261210 - Mechanical Engineering
+225419110 - Civil Engineering
+225424510 - Computer Engineering
+225429310 - Electrical Engineering
+225437210 - Electronics and Telecommunication Engg
+225461210 - Mechanical Engineering
+251619110 - Civil Engineering
+251624210 - Computer Science and Engineering
+251637210 - Electronics and Telecommunication Engg
+251661210 - Mechanical Engineering
+252219110 - Civil Engineering
+252224510 - Computer Engineering
+252237210 - Electronics and Telecommunication Engg
+252261210 - Mechanical Engineering
+253319110 - Civil Engineering
+253324210 - Computer Science and Engineering
+253329310 - Electrical Engineering
+253337210 - Electronics and Telecommunication Engg
+253361210 - Mechanical Engineering
+257319110 - Civil Engineering
+257324510 - Computer Engineering
+257329310 - Electrical Engineering
+257361210 - Mechanical Engineering
+301219110 - Civil Engineering
+301224510 - Computer Engineering
+301224610 - Information Technology
+301229310 - Electrical Engineering
+301237210 - Electronics and Telecommunication Engg
+301237610 - Electronics Engineering
+301260610 - Production Engineering
+301261210 - Mechanical Engineering
+301289610 - Textile Technology
+301419110 - Civil Engineering
+301429310 - Electrical Engineering
+301461210 - Mechanical Engineering
+303319110 - Civil Engineering
+303319113K - Civil Engineering
+303324510 - Computer Engineering
+303324513K - Computer Engineering
+303324610 - Information Technology
+303324613K - Information Technology
+303329310 - Electrical Engineering
+303329313K - Electrical Engineering
+303337210 - Electronics and Telecommunication Engg
+303337213K - Electronics and Telecommunication Engg
+303350710 - Chemical Engineering
+303350713K - Chemical Engineering
+303352710 - Petro Chemical Engineering
+303352713K - Petro Chemical Engineering
+303361210 - Mechanical Engineering
+303361213K - Mechanical Engineering
+303524610F - Information Technology
+303525410F - Computer Science and Technology
+303537010F - Electronics and Communication Engineering
+303537610F - Electronics Engineering
+303650710 - Chemical Engineering
+303651110 - Dyestuff Technology
+303651210 - Oil,Oleochemicals and Surfactants Technology
+303651310 - Pharmaceuticals Chemistry and Technology
+303651410 - Fibres and Textile Processing Technology
+303651910 - Polymer Engineering and Technology
+303653410 - Food Engineering and Technology
+303672910 - Surface Coating Technology
+313524510 - Computer Engineering
+313524610 - Information Technology
+313537210 - Electronics and Telecommunication Engg
+313546610 - Instrumentation Engineering
+313561210 - Mechanical Engineering
+313924510 - Computer Engineering
+313924610 - Information Technology
+313937210 - Electronics and Telecommunication Engg
+313937610 - Electronics Engineering
+313946110 - Bio Medical Engineering
+314624510 - Computer Engineering
+314624610 - Information Technology
+314629310 - Electrical Engineering
+314637210 - Electronics and Telecommunication Engg
+314646610 - Instrumentation Engineering
+314661210 - Mechanical Engineering
+314824510 - Computer Engineering
+314824610 - Information Technology
+314837210 - Electronics and Telecommunication Engg
+314837610 - Electronics Engineering
+315419110 - Civil Engineering
+315419120 - Civil Engineering
+315424510 - Computer Engineering
+315424610 - Information Technology
+315437210 - Electronics and Telecommunication Engg
+315460210 - Automobile Engineering
+315461210 - Mechanical Engineering
+315461220 - Mechanical Engineering
+317424510 - Computer Engineering
+317424520 - Computer Engineering
+317424610 - Information Technology
+317437210 - Electronics and Telecommunication Engg
+317437220 - Electronics and Telecommunication Engg
+317437610 - Electronics Engineering
+317437620 - Electronics Engineering
+317446610 - Instrumentation Engineering
+317519110 - Civil Engineering
+317519120 - Civil Engineering
+317524510 - Computer Engineering
+317524610 - Information Technology
+317529310 - Electrical Engineering
+317537210 - Electronics and Telecommunication Engg
+317546110 - Bio Medical Engineering
+317550710 - Chemical Engineering
+317561210 - Mechanical Engineering
+317561220 - Mechanical Engineering
+317619110 - Civil Engineering
+317624510 - Computer Engineering
+317624610 - Information Technology
+317637210 - Electronics and Telecommunication Engg
+317637610 - Electronics Engineering
+317661210 - Mechanical Engineering
+318124510 - Computer Engineering
+318124610 - Information Technology
+318137210 - Electronics and Telecommunication Engg
+318137610 - Electronics Engineering
+318161210 - Mechanical Engineering
+318224510 - Computer Engineering
+318224610 - Information Technology
+318237210 - Electronics and Telecommunication Engg
+318246110 - Bio Medical Engineering
+318250710 - Chemical Engineering
+318319110 - Civil Engineering
+318324510 - Computer Engineering
+318324610 - Information Technology
+318337210 - Electronics and Telecommunication Engg
+318337610 - Electronics Engineering
+318360210 - Automobile Engineering
+318361210 - Mechanical Engineering
+318424510 - Computer Engineering
+318460610 - Production Engineering
+318461210 - Mechanical Engineering
+318490010 - Electronics and Computer Science
+318524510 - Computer Engineering
+318524520 - Computer Engineering
+318524610 - Information Technology
+318537210 - Electronics and Telecommunication Engg
+318537610 - Electronics Engineering
+318546610 - Instrumentation Engineering
+318719110 - Civil Engineering
+318719120 - Civil Engineering
+318724510 - Computer Engineering
+318724610 - Information Technology
+318737610 - Electronics Engineering
+318750710 - Chemical Engineering
+318761210 - Mechanical Engineering
+318824510 - Computer Engineering
+318824610 - Information Technology
+318837210 - Electronics and Telecommunication Engg
+318924510 - Computer Engineering
+318924610 - Information Technology
+318937210 - Electronics and Telecommunication Engg
+318946610 - Instrumentation Engineering
+318950710 - Chemical Engineering
+318961210 - Mechanical Engineering
+319019110 - Civil Engineering
+319024510 - Computer Engineering
+319024520 - Computer Engineering
+319024610 - Information Technology
+319037210 - Electronics and Telecommunication Engg
+319037610 - Electronics Engineering
+319061210 - Mechanical Engineering
+319062410 - Mechatronics Engineering
+319224510 - Computer Engineering
+319229310 - Electrical Engineering
+319237210 - Electronics and Telecommunication Engg
+319261210 - Mechanical Engineering
+319324510 - Computer Engineering
+319324610 - Information Technology
+319337210 - Electronics and Telecommunication Engg
+319350710 - Chemical Engineering
+319360610 - Production Engineering
+319361210 - Mechanical Engineering
+319419110 - Civil Engineering
+319424510 - Computer Engineering
+319424610 - Information Technology
+319437210 - Electronics and Telecommunication Engg
+319446610 - Instrumentation Engineering
+319461210 - Mechanical Engineering
+319461220 - Mechanical Engineering
+319624510 - Computer Engineering
+319629310 - Electrical Engineering
+319637210 - Electronics and Telecommunication Engg
+319637220 - Electronics and Telecommunication Engg
+319661210 - Mechanical Engineering
+319661220 - Mechanical Engineering
+319724510 - Computer Engineering
+319724610 - Information Technology
+319729310 - Electrical Engineering
+319737210 - Electronics and Telecommunication Engg
+319761210 - Mechanical Engineering
+319824510 - Computer Engineering
+319824610 - Information Technology
+319837210 - Electronics and Telecommunication Engg
+319861210 - Mechanical Engineering
+319924510 - Computer Engineering
+319924610 - Information Technology
+319937210 - Electronics and Telecommunication Engg
+319937610 - Electronics Engineering
+319946110 - Bio Medical Engineering
+319950710 - Chemical Engineering
+319960610 - Production Engineering
+319961210 - Mechanical Engineering
+320024610 - Information Technology
+320029310 - Electrical Engineering
+320037210 - Electronics and Telecommunication Engg
+320037610 - Electronics Engineering
+320050710 - Chemical Engineering
+320061210 - Mechanical Engineering
+320119110 - Civil Engineering
+320124510 - Computer Engineering
+320137210 - Electronics and Telecommunication Engg
+320137610 - Electronics Engineering
+320161210 - Mechanical Engineering
+320224510 - Computer Engineering
+320237210 - Electronics and Telecommunication Engg
+320260210 - Automobile Engineering
+320261210 - Mechanical Engineering
+320324510 - Computer Engineering
+320324610 - Information Technology
+320329310 - Electrical Engineering
+320337210 - Electronics and Telecommunication Engg
+320337610 - Electronics Engineering
+320424510 - Computer Engineering
+320424610 - Information Technology
+320429310 - Electrical Engineering
+320437210 - Electronics and Telecommunication Engg
+320461210 - Mechanical Engineering
+320624510 - Computer Engineering
+320629310 - Electrical Engineering
+320637210 - Electronics and Telecommunication Engg
+320661210 - Mechanical Engineering
+320724510 - Computer Engineering
+320724610 - Information Technology
+320737210 - Electronics and Telecommunication Engg
+320737610 - Electronics Engineering
+320760210 - Automobile Engineering
+320761210 - Mechanical Engineering
+320924510 - Computer Engineering
+320924610 - Information Technology
+320937210 - Electronics and Telecommunication Engg
+320937610 - Electronics Engineering
+321024510 - Computer Engineering
+321024610 - Information Technology
+321037210 - Electronics and Telecommunication Engg
+321124510 - Computer Engineering
+321124610 - Information Technology
+321137210 - Electronics and Telecommunication Engg
+321161210 - Mechanical Engineering
+321184110 - Printing and Packing Technology
+321224510 - Computer Engineering
+321237210 - Electronics and Telecommunication Engg
+321424510 - Computer Engineering
+321424610 - Information Technology
+321437210 - Electronics and Telecommunication Engg
+321524510 - Computer Engineering
+321524610 - Information Technology
+321537210 - Electronics and Telecommunication Engg
+321537610 - Electronics Engineering
+321619110 - Civil Engineering
+321624510 - Computer Engineering
+321637210 - Electronics and Telecommunication Engg
+321650710 - Chemical Engineering
+321661210 - Mechanical Engineering
+321719110 - Civil Engineering
+321724510 - Computer Engineering
+321737210 - Electronics and Telecommunication Engg
+321761210 - Mechanical Engineering
+321819110 - Civil Engineering
+321824510 - Computer Engineering
+321824610 - Information Technology
+321837210 - Electronics and Telecommunication Engg
+321861210 - Mechanical Engineering
+321919110 - Civil Engineering
+321924510 - Computer Engineering
+321924610 - Information Technology
+321929310 - Electrical Engineering
+321937210 - Electronics and Telecommunication Engg
+321961210 - Mechanical Engineering
+322024510 - Computer Engineering
+322024610 - Information Technology
+322061210 - Mechanical Engineering
+322119110 - Civil Engineering
+322124510 - Computer Engineering
+322129310 - Electrical Engineering
+322137210 - Electronics and Telecommunication Engg
+322161210 - Mechanical Engineering
+322219110 - Civil Engineering
+322224510 - Computer Engineering
+322224610 - Information Technology
+322229310 - Electrical Engineering
+322260210 - Automobile Engineering
+322261210 - Mechanical Engineering
+322319110 - Civil Engineering
+322324510 - Computer Engineering
+322324610 - Information Technology
+322329310 - Electrical Engineering
+322337210 - Electronics and Telecommunication Engg
+322360210 - Automobile Engineering
+322361210 - Mechanical Engineering
+322419110 - Civil Engineering
+322424510 - Computer Engineering
+322461210 - Mechanical Engineering
+322461220 - Mechanical Engineering
+335119110 - Civil Engineering
+335124510 - Computer Engineering
+335161210 - Mechanical Engineering
+335319110 - Civil Engineering
+335324510 - Computer Engineering
+335329310 - Electrical Engineering
+335361210 - Mechanical Engineering
+342319110 - Civil Engineering
+342324510 - Computer Engineering
+342324610 - Information Technology
+342337210 - Electronics and Telecommunication Engg
+342337610 - Electronics Engineering
+342361210 - Mechanical Engineering
+343619110 - Civil Engineering
+343624510 - Computer Engineering
+343629310 - Electrical Engineering
+343919110 - Civil Engineering
+343919120 - Civil Engineering
+343924510 - Computer Engineering
+343929310 - Electrical Engineering
+343937210 - Electronics and Telecommunication Engg
+343961210 - Mechanical Engineering
+344019110 - Civil Engineering
+344024510 - Computer Engineering
+344037210 - Electronics and Telecommunication Engg
+344061210 - Mechanical Engineering
+344519110 - Civil Engineering
+344524510 - Computer Engineering
+344561210 - Mechanical Engineering
+344719110 - Civil Engineering
+344724510 - Computer Engineering
+344761210 - Mechanical Engineering
+346019110 - Civil Engineering
+346024510 - Computer Engineering
+346024610 - Information Technology
+346037210 - Electronics and Telecommunication Engg
+346037610 - Electronics Engineering
+346219110 - Civil Engineering
+346229310 - Electrical Engineering
+346237210 - Electronics and Telecommunication Engg
+346246610 - Instrumentation Engineering
+346261210 - Mechanical Engineering
+346519110 - Civil Engineering
+346524510 - Computer Engineering
+346529310 - Electrical Engineering
+346537210 - Electronics and Telecommunication Engg
+346561210 - Mechanical Engineering
+346719110 - Civil Engineering
+346724510 - Computer Engineering
+346729310 - Electrical Engineering
+346737210 - Electronics and Telecommunication Engg
+346761210 - Mechanical Engineering
+347119110 - Civil Engineering
+347124510 - Computer Engineering
+347129310 - Electrical Engineering
+347161210 - Mechanical Engineering
+347162410 - Mechatronics Engineering
+347519110 - Civil Engineering
+347524510 - Computer Engineering
+347524610 - Information Technology
+347537210 - Electronics and Telecommunication Engg
+347561210 - Mechanical Engineering
+347719110 - Civil Engineering
+347724510 - Computer Engineering
+347761210 - Mechanical Engineering
+350319110 - Civil Engineering
+350324510 - Computer Engineering
+350329310 - Electrical Engineering
+400419110 - Civil Engineering
+400424210 - Computer Science and Engineering
+400429310 - Electrical Engineering
+400437210 - Electronics and Telecommunication Engg
+400446610 - Instrumentation Engineering
+400461210 - Mechanical Engineering
+400550310 - Food Technology
+400550710 - Chemical Engineering
+400551010 - Plastic and Polymer Technology
+400552410 - Paper and Pulp Technology
+400552810 - Petro Chemical Technology
+400552910 - Oil Technology
+400572910 - Surface Coating Technology
+402519110 - Civil Engineering
+402524210 - Computer Science and Engineering
+402529310 - Electrical Engineering
+402537210 - Electronics and Telecommunication Engg
+402561210 - Mechanical Engineering
+410419110 - Civil Engineering
+410424610 - Information Technology
+410425110 - Computer Technology
+410429310 - Electrical Engineering
+410437010 - Electronics and Communication Engineering
+410461210 - Mechanical Engineering
+411519110 - Civil Engineering
+411519120 - Civil Engineering
+411524210 - Computer Science and Engineering
+411524220 - Computer Science and Engineering
+411524610 - Information Technology
+411529310 - Electrical Engineering
+411535410 - Electronics Design Technology
+411537010 - Electronics and Communication Engineering
+411537020 - Electronics and Communication Engineering
+411537610 - Electronics Engineering
+411537620 - Electronics Engineering
+411558910 - Industrial Engineering
+411561210 - Mechanical Engineering
+411619110 - Civil Engineering
+411624210 - Computer Science and Engineering
+411624610 - Information Technology
+411629310 - Electrical Engineering
+411637210 - Electronics and Telecommunication Engg
+411637610 - Electronics Engineering
+411661210 - Mechanical Engineering
+411699710 - Artificial Intelligence
+411819110 - Civil Engineering
+411824510 - Computer Engineering
+411835610 - Electrical Engg[Electronics and Power]
+411837210 - Electronics and Telecommunication Engg
+411861210 - Mechanical Engineering
+412300210 - Aeronautical Engineering
+412319110 - Civil Engineering
+412324610 - Information Technology
+412325110 - Computer Technology
+412335610 - Electrical Engg[Electronics and Power]
+412337210 - Electronics and Telecommunication Engg
+412361210 - Mechanical Engineering
+412361220 - Mechanical Engineering
+413319110 - Civil Engineering
+413324510 - Computer Engineering
+413329310 - Electrical Engineering
+413337210 - Electronics and Telecommunication Engg
+413361210 - Mechanical Engineering
+413361220 - Mechanical Engineering
+413424210 - Computer Science and Engineering
+413429310 - Electrical Engineering
+413437210 - Electronics and Telecommunication Engg
+413519110 - Civil Engineering
+413524210 - Computer Science and Engineering
+413524610 - Information Technology
+413529310 - Electrical Engineering
+413537210 - Electronics and Telecommunication Engg
+413561210 - Mechanical Engineering
+413619110 - Civil Engineering
+413624210 - Computer Science and Engineering
+413629310 - Electrical Engineering
+413637210 - Electronics and Telecommunication Engg
+413724210 - Computer Science and Engineering
+413729310 - Electrical Engineering
+413737210 - Electronics and Telecommunication Engg
+413761210 - Mechanical Engineering
+413819110 - Civil Engineering
+413824210 - Computer Science and Engineering
+413824610 - Information Technology
+413829310 - Electrical Engineering
+413837210 - Electronics and Telecommunication Engg
+413861210 - Mechanical Engineering
+413924210 - Computer Science and Engineering
+413929310 - Electrical Engineering
+413937210 - Electronics and Telecommunication Engg
+413961210 - Mechanical Engineering
+414124510 - Computer Engineering
+414224210 - Computer Science and Engineering
+414229310 - Electrical Engineering
+414237210 - Electronics and Telecommunication Engg
+414299710 - Artificial Intelligence
+414319110 - Civil Engineering
+414324510 - Computer Engineering
+414329310 - Electrical Engineering
+414337210 - Electronics and Telecommunication Engg
+414361210 - Mechanical Engineering
+414419110 - Civil Engineering
+414424210 - Computer Science and Engineering
+414424610 - Information Technology
+414429310 - Electrical Engineering
+414461210 - Mechanical Engineering
+414519110 - Civil Engineering
+414524210 - Computer Science and Engineering
+414524610 - Information Technology
+414529310 - Electrical Engineering
+414537210 - Electronics and Telecommunication Engg
+414561210 - Mechanical Engineering
+414719110 - Civil Engineering
+414724210 - Computer Science and Engineering
+414724610 - Information Technology
+414729310 - Electrical Engineering
+414737610 - Electronics Engineering
+414761210 - Mechanical Engineering
+415119110 - Civil Engineering
+415124210 - Computer Science and Engineering
+415124610 - Information Technology
+415129310 - Electrical Engineering
+415137010 - Electronics and Communication Engineering
+415137610 - Electronics Engineering
+415161210 - Mechanical Engineering
+416319110 - Civil Engineering
+416324210 - Computer Science and Engineering
+416324610 - Information Technology
+416329310 - Electrical Engineering
+416337010 - Electronics and Communication Engineering
+416361210 - Mechanical Engineering
+416370110 - Mining Engineering
+416719110 - Civil Engineering
+416724610 - Information Technology
+416725110 - Computer Technology
+416735610 - Electrical Engg[Electronics and Power]
+416737210 - Electronics and Telecommunication Engg
+416737610 - Electronics Engineering
+416761210 - Mechanical Engineering
+417108210 - Bio Technology
+417124210 - Computer Science and Engineering
+417124610 - Information Technology
+417129310 - Electrical Engineering
+417137010 - Electronics and Communication Engineering
+417150710 - Chemical Engineering
+417161210 - Mechanical Engineering
+417219110 - Civil Engineering
+417224210 - Computer Science and Engineering
+417229310 - Electrical Engineering
+417237210 - Electronics and Telecommunication Engg
+417261210 - Mechanical Engineering
+417419110 - Civil Engineering
+417424510 - Computer Engineering
+417424610 - Information Technology
+417429310 - Electrical Engineering
+417437210 - Electronics and Telecommunication Engg
+417461210 - Mechanical Engineering
+417519110 - Civil Engineering
+417524210 - Computer Science and Engineering
+417537210 - Electronics and Telecommunication Engg
+417561210 - Mechanical Engineering
+417719110 - Civil Engineering
+417724210 - Computer Science and Engineering
+417724610 - Information Technology
+417737010 - Electronics and Communication Engineering
+417761210 - Mechanical Engineering
+417819110 - Civil Engineering
+417824210 - Computer Science and Engineering
+417824610 - Information Technology
+417829310 - Electrical Engineering
+417861210 - Mechanical Engineering
+417919110 - Civil Engineering
+417924210 - Computer Science and Engineering
+417929310 - Electrical Engineering
+417937010 - Electronics and Communication Engineering
+418124510 - Computer Engineering
+418161210 - Mechanical Engineering
+418619110 - Civil Engineering
+418624210 - Computer Science and Engineering
+418624610 - Information Technology
+418629310 - Electrical Engineering
+418661210 - Mechanical Engineering
+418719110 - Civil Engineering
+418724210 - Computer Science and Engineering
+418729310 - Electrical Engineering
+418761210 - Mechanical Engineering
+418819110 - Civil Engineering
+418824210 - Computer Science and Engineering
+418829310 - Electrical Engineering
+418837210 - Electronics and Telecommunication Engg
+418861210 - Mechanical Engineering
+418870110 - Mining Engineering
+419019110 - Civil Engineering
+419024210 - Computer Science and Engineering
+419029310 - Electrical Engineering
+419061210 - Mechanical Engineering
+419219110 - Civil Engineering
+419224210 - Computer Science and Engineering
+419235610 - Electrical Engg[Electronics and Power]
+419261210 - Mechanical Engineering
+419324210 - Computer Science and Engineering
+419329310 - Electrical Engineering
+419337010 - Electronics and Communication Engineering
+419361210 - Mechanical Engineering
+419524210 - Computer Science and Engineering
+419529310 - Electrical Engineering
+419561210 - Mechanical Engineering
+419619110 - Civil Engineering
+419624210 - Computer Science and Engineering
+419661210 - Mechanical Engineering
+419719110 - Civil Engineering
+419724210 - Computer Science and Engineering
+419729310 - Electrical Engineering
+419761210 - Mechanical Engineering
+428519110 - Civil Engineering
+428524610 - Information Technology
+428529310 - Electrical Engineering
+428561210 - Mechanical Engineering
+430219110 - Civil Engineering
+430224510 - Computer Engineering
+430237010 - Electronics and Communication Engineering
+430261210 - Mechanical Engineering
+430424510F - Computer Engineering
+430437210F - Electronics and Telecommunication Engg
+430461210F - Mechanical Engineering
+430519110 - Civil Engineering
+430524210 - Computer Science and Engineering
+430561210 - Mechanical Engineering
+461319110 - Civil Engineering
+461324510 - Computer Engineering
+461329310 - Electrical Engineering
+461337210 - Electronics and Telecommunication Engg
+461361210 - Mechanical Engineering
+464919110 - Civil Engineering
+464924510 - Computer Engineering
+464929310 - Electrical Engineering
+464961210 - Mechanical Engineering
+500350310 - Food Technology
+500350710 - Chemical Engineering
+500350810 - Plastic Technology
+500351810 - Oil Fats and Waxes Technology
+500352310 - Paints Technology
+500419110 - Civil Engineering
+500424510 - Computer Engineering
+500429310 - Electrical Engineering
+500437210 - Electronics and Telecommunication Engg
+500446610 - Instrumentation Engineering
+500461210 - Mechanical Engineering
+510319110 - Civil Engineering
+510324510 - Computer Engineering
+510337210 - Electronics and Telecommunication Engg
+510337610 - Electronics Engineering
+510361210 - Mechanical Engineering
+510408210 - Bio Technology
+510419110 - Civil Engineering
+510424510 - Computer Engineering
+510424610 - Information Technology
+510429310 - Electrical Engineering
+510437210 - Electronics and Telecommunication Engg
+510450710 - Chemical Engineering
+510461210 - Mechanical Engineering
+510624510 - Computer Engineering
+510629310 - Electrical Engineering
+510637210 - Electronics and Telecommunication Engg
+510661210 - Mechanical Engineering
+510724510 - Computer Engineering
+510737210 - Electronics and Telecommunication Engg
+510760210 - Automobile Engineering
+510761210 - Mechanical Engineering
+510819110 - Civil Engineering
+510824510 - Computer Engineering
+510824610 - Information Technology
+510837210 - Electronics and Telecommunication Engg
+510846410 - Instrumentation and Control Engineering
+510861210 - Mechanical Engineering
+510919110 - Civil Engineering
+510924510 - Computer Engineering
+510924610 - Information Technology
+510929310 - Electrical Engineering
+510937210 - Electronics and Telecommunication Engg
+510961210 - Mechanical Engineering
+512119110 - Civil Engineering
+512119120 - Civil Engineering
+512124510 - Computer Engineering
+512124610 - Information Technology
+512129310 - Electrical Engineering
+512129320 - Electrical Engineering
+512137210 - Electronics and Telecommunication Engg
+512137620 - Electronics Engineering
+512150710 - Chemical Engineering
+512160610 - Production Engineering
+512161210 - Mechanical Engineering
+512161220 - Mechanical Engineering
+512419110 - Civil Engineering
+512424510 - Computer Engineering
+512424610 - Information Technology
+512429310 - Electrical Engineering
+512461210 - Mechanical Engineering
+512524510 - Computer Engineering
+512524610 - Information Technology
+512529310 - Electrical Engineering
+512537210 - Electronics and Telecommunication Engg
+512550710 - Chemical Engineering
+512561210 - Mechanical Engineering
+513019110 - Civil Engineering
+513024510 - Computer Engineering
+513029310 - Electrical Engineering
+513061210 - Mechanical Engineering
+513919110 - Civil Engineering
+513924510 - Computer Engineering
+513924610 - Information Technology
+513937210 - Electronics and Telecommunication Engg
+513937610 - Electronics Engineering
+513946410 - Instrumentation and Control Engineering
+513950710 - Chemical Engineering
+513961210 - Mechanical Engineering
+515119110 - Civil Engineering
+515124510 - Computer Engineering
+515124610 - Information Technology
+515129310 - Electrical Engineering
+515137210 - Electronics and Telecommunication Engg
+515161210 - Mechanical Engineering
+515219110 - Civil Engineering
+515224210 - Computer Science and Engineering
+515224610 - Information Technology
+515229310 - Electrical Engineering
+515237210 - Electronics and Telecommunication Engg
+515261210 - Mechanical Engineering
+516019110 - Civil Engineering
+516024510 - Computer Engineering
+516024610 - Information Technology
+516029310 - Electrical Engineering
+516037210 - Electronics and Telecommunication Engg
+516061210 - Mechanical Engineering
+516119110 - Civil Engineering
+516124610 - Information Technology
+516129310 - Electrical Engineering
+516137210 - Electronics and Telecommunication Engg
+516161210 - Mechanical Engineering
+516219110 - Civil Engineering
+516224510 - Computer Engineering
+516224610 - Information Technology
+516229310 - Electrical Engineering
+516237210 - Electronics and Telecommunication Engg
+516237610 - Electronics Engineering
+516260610 - Production Engineering
+516261210 - Mechanical Engineering
+516419110 - Civil Engineering
+516424510 - Computer Engineering
+516429310 - Electrical Engineering
+516437210 - Electronics and Telecommunication Engg
+516446610 - Instrumentation Engineering
+516461210 - Mechanical Engineering
+516819110 - Civil Engineering
+516824510 - Computer Engineering
+516837210 - Electronics and Telecommunication Engg
+516861210 - Mechanical Engineering
+516919110 - Civil Engineering
+516924510 - Computer Engineering
+516929310 - Electrical Engineering
+516961210 - Mechanical Engineering
+517019110 - Civil Engineering
+517024210 - Computer Science and Engineering
+517029310 - Electrical Engineering
+517037210 - Electronics and Telecommunication Engg
+517061210 - Mechanical Engineering
+517124510 - Computer Engineering
+517129310 - Electrical Engineering
+517161210 - Mechanical Engineering
+517219110 - Civil Engineering
+517224510 - Computer Engineering
+517229310 - Electrical Engineering
+517237210 - Electronics and Telecommunication Engg
+517261210 - Mechanical Engineering
+517261220 - Mechanical Engineering
+517319110 - Civil Engineering
+517324510 - Computer Engineering
+517337210 - Electronics and Telecommunication Engg
+517361210 - Mechanical Engineering
+517619110 - Civil Engineering
+517624510 - Computer Engineering
+517629310 - Electrical Engineering
+517661210 - Mechanical Engineering
+517719110 - Civil Engineering
+517724510 - Computer Engineering
+517724610 - Information Technology
+517729310 - Electrical Engineering
+517737210 - Electronics and Telecommunication Engg
+517761210 - Mechanical Engineering
+517919110 - Civil Engineering
+517924510 - Computer Engineering
+517962510 - Mechanical Engineering[Sandwich]
+518119110 - Civil Engineering
+518124510 - Computer Engineering
+518129310 - Electrical Engineering
+518137210 - Electronics and Telecommunication Engg
+518161210 - Mechanical Engineering
+518224510 - Computer Engineering
+518229310 - Electrical Engineering
+518419110 - Civil Engineering
+518424510 - Computer Engineering
+518429310 - Electrical Engineering
+518461210 - Mechanical Engineering
+530319110 - Civil Engineering
+530324510 - Computer Engineering
+530329310 - Electrical Engineering
+530337210 - Electronics and Telecommunication Engg
+530361210 - Mechanical Engineering
+532219110 - Civil Engineering
+532224510 - Computer Engineering
+532229310 - Electrical Engineering
+532237210 - Electronics and Telecommunication Engg
+532261210 - Mechanical Engineering
+533024510 - Computer Engineering
+533024610 - Information Technology
+533037210 - Electronics and Telecommunication Engg
+533061210 - Mechanical Engineering
+533119110 - Civil Engineering
+533124510 - Computer Engineering
+533129310 - Electrical Engineering
+533137210 - Electronics and Telecommunication Engg
+533161210 - Mechanical Engineering
+538019110 - Civil Engineering
+538024510 - Computer Engineering
+538029310 - Electrical Engineering
+538061210 - Mechanical Engineering
+538119110 - Civil Engineering
+538124210 - Computer Science and Engineering
+538129310 - Electrical Engineering
+538161210 - Mechanical Engineering
+538219110 - Civil Engineering
+538224510 - Computer Engineering
+538237210 - Electronics and Telecommunication Engg
+538261210 - Mechanical Engineering
+539019110 - Civil Engineering
+539024510 - Computer Engineering
+539029310 - Electrical Engineering
+539037210 - Electronics and Telecommunication Engg
+539061210 - Mechanical Engineering
+539619110 - Civil Engineering
+539624510 - Computer Engineering
+539629310 - Electrical Engineering
+539661210 - Mechanical Engineering
+539919110 - Civil Engineering
+539924510 - Computer Engineering
+539929310 - Electrical Engineering
+539961210 - Mechanical Engineering
+540119110 - Civil Engineering
+540124510 - Computer Engineering
+540129310 - Electrical Engineering
+540161210 - Mechanical Engineering
+540819110 - Civil Engineering
+540824510 - Computer Engineering
+540861210 - Mechanical Engineering
+540924510 - Computer Engineering
+540929310 - Electrical Engineering
+540961210 - Mechanical Engineering
+541119110 - Civil Engineering
+541124510 - Computer Engineering
+541129310 - Electrical Engineering
+541137210 - Electronics and Telecommunication Engg
+541161210 - Mechanical Engineering
+541819110 - Civil Engineering
+541824510 - Computer Engineering
+541829310 - Electrical Engineering
+541861210 - Mechanical Engineering
+544919110 - Civil Engineering
+544924510 - Computer Engineering
+544924610 - Information Technology
+544929310 - Electrical Engineering
+544961210 - Mechanical Engineering
+600419110 - Civil Engineering
+600424510 - Computer Engineering
+600437210 - Electronics and Telecommunication Engg
+600446410 - Instrumentation and Control Engineering
+600460210 - Automobile Engineering
+600461210 - Mechanical Engineering
+600519110 - Civil Engineering
+600524610 - Information Technology
+600529310 - Electrical Engineering
+600537210 - Electronics and Telecommunication Engg
+600561210 - Mechanical Engineering
+600619110 - Civil Engineering
+600624510 - Computer Engineering
+600629310 - Electrical Engineering
+600637210 - Electronics and Telecommunication Engg
+600646410 - Instrumentation and Control Engineering
+600661210 - Mechanical Engineering
+600662610 - Production Engineering[Sandwich]
+600669210 - Metallurgical Engineering
+600719110 - Civil Engineering
+600724210 - Computer Science and Engineering
+600724610 - Information Technology
+600729310 - Electrical Engineering
+600737610 - Electronics Engineering
+600761210 - Mechanical Engineering
+602819110 - Civil Engineering
+602825410 - Computer Science and Technology
+602837710 - Electronics and Communication Technology
+602850310 - Food Technology
+602851510 - Chemical Technology
+602861210 - Mechanical Engineering
+612219110 - Civil Engineering
+612224510 - Computer Engineering
+612237210 - Electronics and Telecommunication Engg
+612261210 - Mechanical Engineering
+612261220 - Mechanical Engineering
+613819110 - Civil Engineering
+613824510 - Computer Engineering
+613824610 - Information Technology
+613837210 - Electronics and Telecommunication Engg
+613861210 - Mechanical Engineering
+613924510 - Computer Engineering
+613924520 - Computer Engineering
+613924610 - Information Technology
+613924620 - Information Technology
+613929310 - Electrical Engineering
+613929320 - Electrical Engineering
+613937210 - Electronics and Telecommunication Engg
+613961210 - Mechanical Engineering
+613961220 - Mechanical Engineering
+614119110 - Civil Engineering
+614124510 - Computer Engineering
+614124610 - Information Technology
+614129310 - Electrical Engineering
+614137210 - Electronics and Telecommunication Engg
+614161210 - Mechanical Engineering
+614419110 - Civil Engineering
+614424510 - Computer Engineering
+614424610 - Information Technology
+614437210 - Electronics and Telecommunication Engg
+614461210 - Mechanical Engineering
+614524510 - Computer Engineering
+614524610 - Information Technology
+614529310 - Electrical Engineering
+614537210 - Electronics and Telecommunication Engg
+614561210 - Mechanical Engineering
+614561220 - Mechanical Engineering
+614619110 - Civil Engineering
+614624510 - Computer Engineering
+614624610 - Information Technology
+614637210 - Electronics and Telecommunication Engg
+614637610 - Electronics Engineering
+614650710 - Chemical Engineering
+614661210 - Mechanical Engineering
+614919110 - Civil Engineering
+614924510 - Computer Engineering
+614924610 - Information Technology
+614937210 - Electronics and Telecommunication Engg
+614961210 - Mechanical Engineering
+615519110 - Civil Engineering
+615524510 - Computer Engineering
+615524610 - Information Technology
+615537210 - Electronics and Telecommunication Engg
+615561210 - Mechanical Engineering
+615624510 - Computer Engineering
+615624610 - Information Technology
+615629310 - Electrical Engineering
+615637210 - Electronics and Telecommunication Engg
+615661210 - Mechanical Engineering
+615661220 - Mechanical Engineering
+616019110 - Civil Engineering
+616019120 - Civil Engineering
+616024510 - Computer Engineering
+616037210 - Electronics and Telecommunication Engg
+616061210 - Mechanical Engineering
+616061220 - Mechanical Engineering
+617519110 - Civil Engineering
+617524510 - Computer Engineering
+617524520 - Computer Engineering
+617524610 - Information Technology
+617537210 - Electronics and Telecommunication Engg
+617537220 - Electronics and Telecommunication Engg
+617561210 - Mechanical Engineering
+617561220 - Mechanical Engineering
+617619110 - Civil Engineering
+617624510 - Computer Engineering
+617624610 - Information Technology
+617629310 - Electrical Engineering
+617637210 - Electronics and Telecommunication Engg
+617661210 - Mechanical Engineering
+617708210 - Bio Technology
+617719110 - Civil Engineering
+617719120 - Civil Engineering
+617724510 - Computer Engineering
+617724520 - Computer Engineering
+617724610 - Information Technology
+617737210 - Electronics and Telecommunication Engg
+617737220 - Electronics and Telecommunication Engg
+617750710 - Chemical Engineering
+617760610 - Production Engineering
+617761210 - Mechanical Engineering
+617761220 - Mechanical Engineering
+617824510 - Computer Engineering
+617824520 - Computer Engineering
+617824610 - Information Technology
+617837210 - Electronics and Telecommunication Engg
+617837220 - Electronics and Telecommunication Engg
+617861210 - Mechanical Engineering
+617861220 - Mechanical Engineering
+617919110 - Civil Engineering
+617924510 - Computer Engineering
+617961210 - Mechanical Engineering
+617962510 - Mechanical Engineering[Sandwich]
+618219110 - Civil Engineering
+618224510 - Computer Engineering
+618224520 - Computer Engineering
+618224610 - Information Technology
+618237210 - Electronics and Telecommunication Engg
+618261210 - Mechanical Engineering
+618324510 - Computer Engineering
+618361210 - Mechanical Engineering
+618419110 - Civil Engineering
+618424510 - Computer Engineering
+618424610 - Information Technology
+618429310 - Electrical Engineering
+618437210 - Electronics and Telecommunication Engg
+618461210 - Mechanical Engineering
+618524510 - Computer Engineering
+618524520 - Computer Engineering
+618524610 - Information Technology
+618529310 - Electrical Engineering
+618537210 - Electronics and Telecommunication Engg
+618561210 - Mechanical Engineering
+618719110 - Civil Engineering
+618724510 - Computer Engineering
+618724520 - Computer Engineering
+618724610 - Information Technology
+618737210 - Electronics and Telecommunication Engg
+618761210 - Mechanical Engineering
+618761220 - Mechanical Engineering
+620319110 - Civil Engineering
+620324510 - Computer Engineering
+620361210 - Mechanical Engineering
+620624510 - Computer Engineering
+620624610 - Information Technology
+620637210 - Electronics and Telecommunication Engg
+620646610 - Instrumentation Engineering
+620661210 - Mechanical Engineering
+620719110 - Civil Engineering
+620724510 - Computer Engineering
+620724520 - Computer Engineering
+620724610 - Information Technology
+620729310 - Electrical Engineering
+620737210 - Electronics and Telecommunication Engg
+620746610 - Instrumentation Engineering
+620761210 - Mechanical Engineering
+620761220 - Mechanical Engineering
+621419110 - Civil Engineering
+621424510 - Computer Engineering
+621429310 - Electrical Engineering
+621437210 - Electronics and Telecommunication Engg
+621456810 - Computer Science and Information Technology
+621461210 - Mechanical Engineering
+621461610 - Mechanical Engineering Automobile
+621719110 - Civil Engineering
+621724210 - Computer Science and Engineering
+621729310 - Electrical Engineering
+621737210 - Electronics and Telecommunication Engg
+621761210 - Mechanical Engineering
+621924210 - Computer Science and Engineering
+621946110 - Bio Medical Engineering
+621961210 - Mechanical Engineering
+622019110 - Civil Engineering
+622024210 - Computer Science and Engineering
+622029310 - Electrical Engineering
+622037210 - Electronics and Telecommunication Engg
+622061210 - Mechanical Engineering
+622219110 - Civil Engineering
+622224210 - Computer Science and Engineering
+622229310 - Electrical Engineering
+622237210 - Electronics and Telecommunication Engg
+622237610 - Electronics Engineering
+622261210 - Mechanical Engineering
+622288610 - Man Made Textile Technology
+622289010 - Textile Chemistry
+622289510 - Textile Plant Engineering
+622289610 - Textile Technology
+622289810 - Textile Engineering (Fashion Technology)
+622319110 - Civil Engineering
+622324210 - Computer Science and Engineering
+622329310 - Electrical Engineering
+622337210 - Electronics and Telecommunication Engg
+622361210 - Mechanical Engineering
+625019110 - Civil Engineering
+625024210 - Computer Science and Engineering
+625037210 - Electronics and Telecommunication Engg
+625050710 - Chemical Engineering
+625061210 - Mechanical Engineering
+626519110 - Civil Engineering
+626524210 - Computer Science and Engineering
+626524610 - Information Technology
+626537210 - Electronics and Telecommunication Engg
+626537610 - Electronics Engineering
+626561210 - Mechanical Engineering
+626708210 - Bio Technology
+626719110 - Civil Engineering
+626720110 - Environmental Engineering
+626724210 - Computer Science and Engineering
+626729310 - Electrical Engineering
+626737210 - Electronics and Telecommunication Engg
+626761210 - Mechanical Engineering
+626819110 - Civil Engineering
+626819120 - Civil Engineering
+626824210 - Computer Science and Engineering
+626837210 - Electronics and Telecommunication Engg
+626850710 - Chemical Engineering
+626861210 - Mechanical Engineering
+626919110 - Civil Engineering
+626924210 - Computer Science and Engineering
+626929310 - Electrical Engineering
+626937210 - Electronics and Telecommunication Engg
+626937610 - Electronics Engineering
+626946610 - Instrumentation Engineering
+626950710 - Chemical Engineering
+626961210 - Mechanical Engineering
+627019110 - Civil Engineering
+627024510 - Computer Engineering
+627037610 - Electronics Engineering
+627061210 - Mechanical Engineering
+627124510 - Computer Engineering
+627124520 - Computer Engineering
+627124610 - Information Technology
+627137210 - Electronics and Telecommunication Engg
+627137220 - Electronics and Telecommunication Engg
+627219110 - Civil Engineering
+627219120 - Civil Engineering
+627224510 - Computer Engineering
+627224610 - Information Technology
+627237210 - Electronics and Telecommunication Engg
+627246610 - Instrumentation Engineering
+627261210 - Mechanical Engineering
+627261220 - Mechanical Engineering
+627262610 - Production Engineering[Sandwich]
+627324510 - Computer Engineering
+627324520 - Computer Engineering
+627324610 - Information Technology
+627337210 - Electronics and Telecommunication Engg
+627337220 - Electronics and Telecommunication Engg
+627346410 - Instrumentation and Control Engineering
+627350710 - Chemical Engineering
+627358910 - Industrial Engineering
+627360610 - Production Engineering
+627361210 - Mechanical Engineering
+627361220 - Mechanical Engineering
+627424510 - Computer Engineering
+627424610 - Information Technology
+627429310 - Electrical Engineering
+627437210 - Electronics and Telecommunication Engg
+627461210 - Mechanical Engineering
+627484210 - Printing Engineering and Graphics Communication
+627519110 - Civil Engineering
+627524510 - Computer Engineering
+627524610 - Information Technology
+627529310 - Electrical Engineering
+627537210 - Electronics and Telecommunication Engg
+627561210 - Mechanical Engineering
+627624510F - Computer Engineering
+627624520F - Computer Engineering
+627624610F - Information Technology
+627637210F - Electronics and Telecommunication Engg
+627637220F - Electronics and Telecommunication Engg
+627646610F - Instrumentation Engineering
+627661210F - Mechanical Engineering
+627719110 - Civil Engineering
+627724510 - Computer Engineering
+627724610 - Information Technology
+627737010 - Electronics and Telecommunication Engg
+627737610 - Electronics Engineering
+627761210 - Mechanical Engineering
+627819110 - Civil Engineering
+627824510 - Computer Engineering
+627824520 - Computer Engineering
+627829310 - Electrical Engineering
+627837210 - Electronics and Telecommunication Engg
+627850710 - Chemical Engineering
+627861210 - Mechanical Engineering
+627862510 - Mechanical Engineering[Sandwich]
+627862610 - Production Engineering[Sandwich]
+628124510 - Computer Engineering
+628124520 - Computer Engineering
+628137210 - Electronics and Telecommunication Engg
+628161210 - Mechanical Engineering
+628224510 - Computer Engineering
+628224520 - Computer Engineering
+628224610 - Information Technology
+628229310 - Electrical Engineering
+628237210 - Electronics and Telecommunication Engg
+628237220 - Electronics and Telecommunication Engg
+628246610 - Instrumentation Engineering
+628300210 - Aeronautical Engineering
+628319110 - Civil Engineering
+628324210 - Computer Science and Engineering
+628329310 - Electrical Engineering
+628350310 - Food Technology
+628360210 - Automobile Engineering
+628361210 - Mechanical Engineering
+628419110 - Civil Engineering
+628424510 - Computer Engineering
+628424610 - Information Technology
+628429310 - Electrical Engineering
+628437210 - Electronics and Telecommunication Engg
+628461210 - Mechanical Engineering
+628524510F - Computer Engineering
+628524610F - Information Technology
+628537210F - Electronics and Telecommunication Engg
+628819110 - Civil Engineering
+628824210 - Computer Science and Engineering
+628837210 - Electronics and Telecommunication Engg
+628861210 - Mechanical Engineering
+628919110 - Civil Engineering
+628924510 - Computer Engineering
+628924520 - Computer Engineering
+628924610 - Information Technology
+628937210 - Electronics and Telecommunication Engg
+628937220 - Electronics and Telecommunication Engg
+628961210 - Mechanical Engineering
+628961220 - Mechanical Engineering
+629324210 - Computer Science and Engineering
+629329310 - Electrical Engineering
+629337210 - Electronics and Telecommunication Engg
+629361210 - Mechanical Engineering
+629819110 - Civil Engineering
+629824510 - Computer Engineering
+629824520 - Computer Engineering
+629824610 - Information Technology
+629829310 - Electrical Engineering
+629837210 - Electronics and Telecommunication Engg
+629861210 - Mechanical Engineering
+629861220 - Mechanical Engineering
+630319110 - Civil Engineering
+630324210 - Computer Science and Engineering
+630337210 - Electronics and Telecommunication Engg
+630361210 - Mechanical Engineering
+630419110 - Civil Engineering
+630424210 - Computer Science and Engineering
+630437210 - Electronics and Telecommunication Engg
+630461210 - Mechanical Engineering
+630524610 - Information Technology
+630719110 - Civil Engineering
+630724510 - Computer Engineering
+630724610 - Information Technology
+630737210 - Electronics and Telecommunication Engg
+630760210 - Automobile Engineering
+630761210 - Mechanical Engineering
+630819110 - Civil Engineering
+630824510 - Computer Engineering
+630837210 - Electronics and Telecommunication Engg
+630861210 - Mechanical Engineering
+631024510 - Computer Engineering
+631024610 - Information Technology
+631037210 - Electronics and Telecommunication Engg
+631061210 - Mechanical Engineering
+631124510 - Computer Engineering
+631124610 - Information Technology
+631129310 - Electrical Engineering
+631137210 - Electronics and Telecommunication Engg
+631161210 - Mechanical Engineering
+631319110 - Civil Engineering
+631324510 - Computer Engineering
+631329310 - Electrical Engineering
+631337210 - Electronics and Telecommunication Engg
+631361210 - Mechanical Engineering
+631519110 - Civil Engineering
+631524210 - Computer Science and Engineering
+631529310 - Electrical Engineering
+631537210 - Electronics and Telecommunication Engg
+631560210 - Automobile Engineering
+631561210 - Mechanical Engineering
+631719110 - Civil Engineering
+631724210 - Computer Science and Engineering
+631729310 - Electrical Engineering
+631737210 - Electronics and Telecommunication Engg
+631761210 - Mechanical Engineering
+631919110 - Civil Engineering
+631924510 - Computer Engineering
+631929310 - Electrical Engineering
+631937210 - Electronics and Telecommunication Engg
+631961210 - Mechanical Engineering
+632019110 - Civil Engineering
+632024510 - Computer Engineering
+632037210 - Electronics and Telecommunication Engg
+632061210 - Mechanical Engineering
+632119110 - Civil Engineering
+632124210 - Computer Science and Engineering
+632137210 - Electronics and Telecommunication Engg
+632161210 - Mechanical Engineering
+632224510 - Computer Engineering
+632237210 - Electronics and Telecommunication Engg
+632261210 - Mechanical Engineering
+632324510 - Computer Engineering
+632324610 - Information Technology
+632337210 - Electronics and Telecommunication Engg
+632361210 - Mechanical Engineering
+632419110 - Civil Engineering
+632424510 - Computer Engineering
+632437210 - Electronics and Telecommunication Engg
+632461210 - Mechanical Engineering
+632519110 - Civil Engineering
+632524510 - Computer Engineering
+632561210 - Mechanical Engineering
+632619110 - Civil Engineering
+632624210 - Computer Science and Engineering
+632637210 - Electronics and Telecommunication Engg
+632661210 - Mechanical Engineering
+641924210 - Computer Science and Engineering
+641957610 - Electronics & Communication Engineering(Sandwich)
+641960210 - Automobile Engineering
+641962510 - Mechanical Engineering[Sandwich]
+646619110 - Civil Engineering
+646624210 - Computer Science and Engineering
+646629310 - Electrical Engineering
+646661210 - Mechanical Engineering
+654519110 - Civil Engineering
+654524210 - Computer Science and Engineering
+654529310 - Electrical Engineering
+654537210 - Electronics and Telecommunication Engg
+654561210 - Mechanical Engineering
+660919110 - Civil Engineering
+660924510 - Computer Engineering
+660937210 - Electronics and Telecommunication Engg
+660961210 - Mechanical Engineering
+662019110 - Civil Engineering
+662024510 - Computer Engineering
+662024610 - Information Technology
+662029310 - Electrical Engineering
+662061210 - Mechanical Engineering
+662224510 - Computer Engineering
+662237210 - Electronics and Telecommunication Engg
+662261210 - Mechanical Engineering
+662524510 - Computer Engineering
+662529310 - Electrical Engineering
+662819110 - Civil Engineering
+662824510 - Computer Engineering
+662829310 - Electrical Engineering
+662861210 - Mechanical Engineering
+663219110 - Civil Engineering
+663224510 - Computer Engineering
+663229310 - Electrical Engineering
+663237210 - Electronics and Telecommunication Engg
+663261210 - Mechanical Engineering
+663419110 - Civil Engineering
+663424510 - Computer Engineering
+663437210 - Electronics and Telecommunication Engg
+663461210 - Mechanical Engineering
+663519110 - Civil Engineering
+663524510 - Computer Engineering
+663537210 - Electronics and Telecommunication Engg
+663561210 - Mechanical Engineering
+664019110 - Civil Engineering
+664024210 - Computer Science and Engineering
+664029310 - Electrical Engineering
+664037210 - Electronics and Telecommunication Engg
+664061210 - Mechanical Engineering
+664319110 - Civil Engineering
+664324210 - Computer Science and Engineering
+664329310 - Electrical Engineering
+664337210 - Electronics and Telecommunication Engg
+664361210 - Mechanical Engineering
+664419110 - Civil Engineering
+664424510 - Computer Engineering
+664429310 - Electrical Engineering
+664437210 - Electronics and Telecommunication Engg
+664461210 - Mechanical Engineering
+664919110 - Civil Engineering
+664924510 - Computer Engineering
+664929310 - Electrical Engineering
+664937210 - Electronics and Telecommunication Engg
+664961210 - Mechanical Engineering
+673219110 - Civil Engineering
+673224510 - Computer Engineering
+673237210 - Electronics and Telecommunication Engg
+673261210 - Mechanical Engineering
+675424510 - Computer Engineering
+675424610 - Information Technology
+675437210 - Electronics and Telecommunication Engg
+675519110 - Civil Engineering
+675524510 - Computer Engineering
+675537210 - Electronics and Telecommunication Engg
+675561210 - Mechanical Engineering
+675561220 - Mechanical Engineering
+675619110 - Civil Engineering
+675624210 - Computer Science and Engineering
+675629310 - Electrical Engineering
+675637210 - Electronics and Telecommunication Engg
+675661210 - Mechanical Engineering
+675719110 - Civil Engineering
+675724210 - Computer Science and Engineering
+675729310 - Electrical Engineering
+675737210 - Electronics and Telecommunication Engg
+675761210 - Mechanical Engineering
+675824510 - Computer Engineering
+675919110 - Civil Engineering
+675924510 - Computer Engineering
+675929310 - Electrical Engineering
+675937210 - Electronics and Telecommunication Engg
+675961210 - Mechanical Engineering
+676219110 - Civil Engineering
+676224210 - Computer Science and Engineering
+676229310 - Electrical Engineering
+676237210 - Electronics and Telecommunication Engg
+676261210 - Mechanical Engineering
+676619110 - Civil Engineering
+676624510 - Computer Engineering
+676637210 - Electronics and Telecommunication Engg
+676661210 - Mechanical Engineering
+676724510 - Computer Engineering
+676761210 - Mechanical Engineering
+676819110 - Civil Engineering
+676824510 - Computer Engineering
+676861210 - Mechanical Engineering
+676919110 - Civil Engineering
+676924510 - Computer Engineering
+676924610 - Information Technology
+676937210 - Electronics and Telecommunication Engg
+676961210 - Mechanical Engineering
+677024510 - Computer Engineering
+677024610 - Information Technology
+677061210 - Mechanical Engineering
+677224510 - Computer Engineering
+677224610 - Information Technology
+677229310 - Electrical Engineering
+677237210 - Electronics and Telecommunication Engg
+677261210 - Mechanical Engineering
+677261220 - Mechanical Engineering
+678019110 - Civil Engineering
+678024210 - Computer Science and Engineering
+678029310 - Electrical Engineering
+678037210 - Electronics and Telecommunication Engg
+678061210 - Mechanical Engineering
+678119110 - Civil Engineering
+678124210 - Computer Science and Engineering
+678137210 - Electronics and Telecommunication Engg
+678161210 - Mechanical Engineering
+678224210 - Computer Science and Engineering
+678229310 - Electrical Engineering
+678237210 - Electronics and Telecommunication Engg
+678261210 - Mechanical Engineering
+678719110 - Civil Engineering
+678724510 - Computer Engineering
+678737210 - Electronics and Telecommunication Engg
+678760210 - Automobile Engineering
+678761210 - Mechanical Engineering
+679419110 - Civil Engineering
+679424510 - Computer Engineering
+679424610 - Information Technology
+679437210 - Electronics and Telecommunication Engg
+679461210 - Mechanical Engineering
+679519110 - Civil Engineering
+679524510 - Computer Engineering
+679529310 - Electrical Engineering
+679561210 - Mechanical Engineering
+679619110 - Civil Engineering
+679624510 - Computer Engineering
+679637210 - Electronics and Telecommunication Engg
+679661210 - Mechanical Engineering
+679719110 - Civil Engineering
+679724210 - Computer Science and Engineering
+679729310 - Electrical Engineering
+679737210 - Electronics and Telecommunication Engg
+679761210 - Mechanical Engineering
+680219110 - Civil Engineering
+680224510 - Computer Engineering
+680237210 - Electronics and Telecommunication Engg
+680250710 - Chemical Engineering
+680261210 - Mechanical Engineering
+680261220 - Mechanical Engineering
+680319110 - Civil Engineering
+680324210 - Computer Science and Engineering
+680329310 - Electrical Engineering
+680337210 - Electronics and Telecommunication Engg
+680361210 - Mechanical Engineering
+680824510 - Computer Engineering
+680837210 - Electronics and Telecommunication Engg
+680861210 - Mechanical Engineering
+680961210 - Mechanical Engineering
+681524510 - Computer Engineering
+682219110 - Civil Engineering
+682224510 - Computer Engineering
+682237210 - Electronics and Telecommunication Engg
+682261210 - Mechanical Engineering
+683419110 - Civil Engineering
+683424510 - Computer Engineering
+683461210 - Mechanical Engineering
+683919110 - Civil Engineering
+683924210 - Computer Science and Engineering
+683929310 - Electrical Engineering
+683961210 - Mechanical Engineering
+687819110 - Civil Engineering
+687829310 - Electrical Engineering
+687861210 - Mechanical Engineering
+690119110 - Civil Engineering
+690124510 - Computer Engineering
+690137210 - Electronics and Telecommunication Engg
+690161210 - Mechanical Engineering
+693824210F - Computer Science and Engineering
+693829310F - Electrical Engineering
+693837210F - Electronics and Telecommunication Engg
+693861210F - Mechanical Engineering
